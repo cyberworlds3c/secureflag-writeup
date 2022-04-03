@@ -1,8 +1,9 @@
 # Secureflag Writeup
 
 
-**Authorization Bypass in Admin Functionalities**
+**OWASP Top 10:2021 in Python**
 
+Authorization Bypass in Admin Functionalities
 Solution Method 
 
 if login.is_user_admin():
